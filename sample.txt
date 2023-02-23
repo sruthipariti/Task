@@ -4,6 +4,7 @@ jenkins
 chef
 anisble
 docker
+ci/cd
 
 Thank you
 Final copy
